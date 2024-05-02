@@ -1,5 +1,5 @@
 /*
-Mikael Cuinet 2005 - Projet Info
+Mikael Cuinet 2000 - Projet Info
 */
 
 #include "main.h"
